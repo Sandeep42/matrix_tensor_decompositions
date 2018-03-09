@@ -1,0 +1,26 @@
+,Movie,User,Rating,Preferred_Time
+0,Star Trek,User0,3,Morning
+1,Star Trek,User1,5,Afternoon
+2,Star Trek,User2,0,Morning
+3,Star Trek,User3,5,Morning
+4,Star Trek,User4,0,Morning
+5,Interstellar,User0,0,Afternoon
+6,Interstellar,User1,0,Morning
+7,Interstellar,User2,3,Morning
+8,Interstellar,User3,3,Morning
+9,Interstellar,User4,0,Afternoon
+10,Inception,User0,0,Morning
+11,Inception,User1,3,Morning
+12,Inception,User2,4,Morning
+13,Inception,User3,4,Morning
+14,Inception,User4,0,Afternoon
+15,Silver Linings Playbook,User0,5,Evening
+16,Silver Linings Playbook,User1,0,Night
+17,Silver Linings Playbook,User2,0,Night
+18,Silver Linings Playbook,User3,0,Night
+19,Silver Linings Playbook,User4,4,Evening
+20,The Perks of Being a Wallflower,User0,3,Night
+21,The Perks of Being a Wallflower,User1,0,Evening
+22,The Perks of Being a Wallflower,User2,0,Night
+23,The Perks of Being a Wallflower,User3,0,Night
+24,The Perks of Being a Wallflower,User4,5,Night
